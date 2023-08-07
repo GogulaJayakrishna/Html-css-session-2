@@ -1,0 +1,15 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color:antiquewhite
+} 
+h1{
+    background-color: aqua ;
+}
+p{
+    font-size: larger;
+    font-weight: 800;
+}
+a{
+    display:block;
+}
+ 
